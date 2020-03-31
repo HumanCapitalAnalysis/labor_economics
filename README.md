@@ -87,6 +87,12 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 
 * Schultz, T. (1961). Investment in human capital. *American Economic Review, 51*(1), 1–17.
 
+#### Software packages
+
+* grmpy (2018). *grmpy: A Python package for the simulation and estimation of the generalized Roy model.* Retrieved from http://doi.org/10.5281/zenodo.1162640
+
+* respy (2018). *respy: A Python package for the simulation and estimation of a prototypical finite-horizon dynamic discrete choice model.* Retrieved from http://doi.org/10.5281/zenodo.1189209
+
 ## Iterations <a name="iterations"></a>
 
 * **Summer Quarter 2020**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/tree/master/iterations/bonn-ss-2020) for details.
