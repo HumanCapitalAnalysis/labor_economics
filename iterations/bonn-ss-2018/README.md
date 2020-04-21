@@ -22,7 +22,7 @@ We start on May 9th 2017 and meet Wednesdays between 12:15-15:45 in lecture hall
 
 The core lectures are available [here](https://github.com/HumanCapitalAnalysis/economics/blob/master/README.md).
 
-#### [Course overview](https://github.com/HumanCapitalAnalysis/economics/blob/master/iterations/bonn_ss_2018/00_course_outline.pdf)
+#### [Course overview](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/iterations/bonn-ss-2018/00_course_outline.pdf)
 
 I briefly review some administrative issues regarding the course.
 

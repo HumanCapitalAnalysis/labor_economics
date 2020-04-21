@@ -4,8 +4,6 @@
 knowledge are a form of capital, that this capital is in substantial part a product of deliberate investment, that it has grown in Western societies at a much faster rate than conventional (nonhuman) capital, and that its growth may well be the most distinctive feature of the
 economic system. It has been widely observed that increases in national output have been large compared with the increases of land, man-hours and physical reproducible capital. Investment in human capital is probably the major explanation for this difference. (Schultz, 1961)
 
-We study the economics of human capital. For further questions, please do not hesitate to [contact us](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY).
-
 Please use the table of content to navigate the rest of the material.
 
 1. [Lectures](#lectures)
@@ -13,29 +11,33 @@ Please use the table of content to navigate the rest of the material.
 3. [References](#references)
 4. [Iterations](#iterations)
 
+For further questions, please do not hesitate to contact us:
+
+[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://hca.zulipchat.com/)
+
 ## Lectures <a name="lectures"></a>
 
-We provide a brief description of the individual lectures and link the their slides. All lectures are also available for download as a single file [here](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/distribution/course_deck.pdf). The material for our tutorial session is available [online](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/distribution/99_tutorial.pdf) as well.
+We provide a brief description of the individual lectures and link the their slides. The material for our tutorial session is available [online](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/99-tutorial/slides.pdf) as well.
 
-#### [Introduction](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/distribution/01_introduction.pdf)
+#### [Introduction](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/01-introduction/slides.pdf)
 
-We outline the research program in the economics of human capital. We start by reviewing some facts about the distribution of human capital across and within countries and then study two seminal models emphasizing different mechanisms how education affects labor market outcomes. We present an overview on the National Longitudinal Survey of Youth 1979 with a focus on human capital information, the slides are available [here](https://github.com/OpenSourceEconomics/nlsy_dataset/blob/master/distribution/presentation.pdf). We also discuss the usefulness of mathematical modeling in economics, the slides are available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/distribution/research_skills/02_mathematical_modeling.pdf)
+We outline the research program in the economics of human capital. We start by reviewing some facts about the distribution of human capital across and within countries and then study two seminal models emphasizing different mechanisms how education affects labor market outcomes. We present an overview on the National Longitudinal Survey of Youth 1979 with a focus on human capital information, the slides are available [here](https://github.com/OpenSourceEconomics/nlsy_dataset/blob/master/distribution/presentation.pdf). We also discuss the usefulness of mathematical modeling in economics, the slides are available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/research-skills/02-mathematical-modeling/slides.pdf)
 
-#### [Returns to schooling](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/distribution/02_returns_schooling.pdf)
+#### [Returns to schooling](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/02-returns-schooling/slides.pdf)
 
 We study several models of schooling decisions. We contrast their economic assumptions with a focus on the role of uncertainty and nonlinearities in the return to increasing schooling. In the process, we contrast alternative return concepts and investigate their empirical validity.
 
-#### [Multidimensionality of skills](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/distribution/03_multidimensionality_skills.pdf)
+#### [Multidimensionality of skills](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/03-multidimensionality-skills/slides.pdf)
 
-We sharpen our understanding of the multidimensionality of human capital. We review two papers that showcase the importance of cognitive as well as noncognitive skills for a variety of economic outcomes and objects of interest. But first of all, we start the lecture by briefly reviewing some best practices on how to read a research paper. The slides are available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/distribution/research_skills/01_reading_scientific_papers.pdf).
+We sharpen our understanding of the multidimensionality of human capital. We review two papers that showcase the importance of cognitive as well as noncognitive skills for a variety of economic outcomes and objects of interest. But first of all, we start the lecture by briefly reviewing some best practices on how to read a research paper. The slides are available [here](https://github.com/HumanCapitalAnalysis/talks/blob/master/research-skills/01-reading-scientific-papers/slides.pdf).
 
-#### [Static model of educational choice](https://github.com/HumanCapitalAnalysis/labor_economics/blob/master/distribution/04_static_model.pdf)
+#### [Static model of educational choice](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/04-static-model/slides.pdf)
 
-We study the economics and econometrics of the generalized Roy model. We discuss alternative parameters of interest and clarify the policy questions they address. We also explore the capabilities of the [``grmpy`` package](http://grmpy.readthedocs.io). The manuscript [Issues in the Econometrics of Policy Evaluation](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/Eisenhauer_2012.pdf) provides an additional introduction to the material discussed in the lecture. We discuss an application of the framework in [Estimating Marginal Returns to Education](https://github.com/HumanCapitalAnalysis/talks/blob/master/distribution/seminal_papers/01_Carneiro_al_2011.pdf).
+We study the economics and econometrics of the generalized Roy model. We discuss alternative parameters of interest and clarify the policy questions they address. We also explore the capabilities of the [``grmpy`` package](http://grmpy.readthedocs.io). The manuscript [Issues in the Econometrics of Policy Evaluation](https://github.com/HumanCapitalAnalysis/econometrics/blob/master/distribution/Eisenhauer_2012.pdf) provides an additional introduction to the material discussed in the lecture. We discuss an application of the framework in [Estimating Marginal Returns to Education](https://github.com/HumanCapitalAnalysis/talks/blob/master/seminal-papers/01-Carneiro-al-2011/slides.pdf).
 
-#### [Dynamic model of human capital accumulation](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/distribution/05_dynamic_model.pdf)
+#### [Dynamic model of human capital accumulation](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/05-dynamic-model/slides.pdf)
 
-We also study the seminal paper on the career decision of young men in [Keane & Wolpin (1997)](https://github.com/HumanCapitalAnalysis/talks/blob/master/distribution/seminal_papers/04_Keane_al_1997.pdf). We explore the capabilities of the [``respy`` package](http://respy.readthedocs.io) to estimate the model presented there.
+We also study the seminal paper on the career decision of young men in [Keane & Wolpin (1997)](https://github.com/HumanCapitalAnalysis/talks/blob/master/seminal-papers/04-Keane-al-1997/slides.pdf). We explore the capabilities of the [``respy`` package](http://respy.readthedocs.io) to estimate the model presented there.
 
 ## Readings <a name="readings"></a>
 
@@ -83,15 +85,21 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 
 * Cahuc, P., & Zylberberg, A. (2004). *Labor Economics.* Cambridge, MA: MIT Press.
 
-* Schultz, T. (1961). Investment in human capital. *American Economic Review, 51*(1), 1–17.
+* Schultz, T. (1961). [Investment in human capital.](https://www.ssc.wisc.edu/~walker/wp/wp-content/uploads/2012/04/schultz61.pdf) *American Economic Review, 51*(1), 1–17.
+
+## Software packages
+
+* grmpy (2018). *grmpy: A Python package for the simulation and estimation of the generalized Roy model.* Retrieved from http://doi.org/10.5281/zenodo.1162640
+
+* respy (2018). *respy: A Python package for the simulation and estimation of a prototypical finite-horizon dynamic discrete choice model.* Retrieved from http://doi.org/10.5281/zenodo.1189209
 
 ## Iterations <a name="iterations"></a>
 
-* **Summer Quarter 2020**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/iterations/bonn_ss_2020/README.md) for details.
+* **Summer Quarter 2020**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/tree/master/iterations/bonn-ss-2020) for details.
 
-* **Summer Quarter 2019**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/iterations/bonn_ss_2019/README.md) for details.
+* **Summer Quarter 2019**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/tree/master/iterations/bonn-ss-2019) for details.
 
-* **Summer Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/iterations/bonn_ss_2018/README.md) for details.
+* **Summer Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/tree/master/iterations/bonn-ss-2018) for details.
 
 
 [![Build Status](https://travis-ci.org/HumanCapitalAnalysis/labor-economics.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/labor-economics)

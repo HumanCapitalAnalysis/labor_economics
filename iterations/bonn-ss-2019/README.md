@@ -29,7 +29,7 @@ The core lectures are available [here](https://github.com/HumanCapitalAnalysis/e
 
 I briefly introduce my research background and provide a basic overview on my teaching efforts.
 
-* [Course details](https://github.com/HumanCapitalAnalysis/economics/blob/master/iterations/bonn_ss_2019/00_course_outline.pdf)
+* [Course details](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/iterations/bonn-ss-2019/00_course_outline.pdf)
 
 We discuss some details about the course and in particular student projects.
 
@@ -39,7 +39,7 @@ I present an overview on the NLSY79 dataset as we will encounter numerous empiri
 
 #### Syntopical reading
 
-* [Reading scientific papers](https://github.com/HumanCapitalAnalysis/talks/blob/master/distribution/research_skills/01_reading_scientific_papers.pdf)
+* [Reading scientific papers](https://github.com/HumanCapitalAnalysis/talks/blob/master/research-skills/01-reading-scientific-papers/slides.pdf)
 
 We discuss the research reported in Lagakos & al. (2018) in detail, trying to deduce some general lessons on how to read scientific papers in general.
 
