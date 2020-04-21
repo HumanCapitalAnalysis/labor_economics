@@ -7,9 +7,10 @@ economic system. It has been widely observed that increases in national output h
 Please use the table of content to navigate the rest of the material.
 
 1. [Lectures](#lectures)
-2. [Readings](#readings)
-3. [References](#references)
-4. [Iterations](#iterations)
+2. [Tutorials](#tutorials)
+3. [Readings](#readings)
+4. [References](#references)
+5. [Iterations](#iterations)
 
 For further questions, please do not hesitate to contact us:
 
@@ -38,6 +39,11 @@ We study the economics and econometrics of the generalized Roy model. We discuss
 #### [Dynamic model of human capital accumulation](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/05-dynamic-model/slides.pdf)
 
 We also study the seminal paper on the career decision of young men in [Keane & Wolpin (1997)](https://github.com/HumanCapitalAnalysis/talks/blob/master/seminal-papers/04-Keane-al-1997/slides.pdf). We explore the capabilities of the [``respy`` package](http://respy.readthedocs.io) to estimate the model presented there.
+
+## Tutorials <a name="tutorials"></a>
+
+We revisit the material of the course in tutorial. Please prepare for our review session using the questions posted [here](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/lectures/99-tutorial/slides.pdf)
+
 
 ## Readings <a name="readings"></a>
 

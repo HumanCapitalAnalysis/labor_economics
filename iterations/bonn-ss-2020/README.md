@@ -23,6 +23,14 @@ We will conduct all course communications using [Zulip](https://zulip.com/), so 
 
 The core lectures are available [here](https://github.com/HumanCapitalAnalysis/labor-economics/blob/master/README.md).
 
+### Guest lecture
+
+We are lucky to draw on a set of guest lecturers for our different topics.
+
+#### [segsell](https://github.com/segsell) on [grmpy](https://grmpy.readthedocs.io)
+
+Sebastian Gsell will host a tutorial on the `grmpy` package to explore some selected issues in the static model of educational choice.
+
 #### Kickoff
 
 * [Introduction to the NLSY79](https://github.com/OpenSourceEconomics/nlsy-data/blob/master/distribution/presentation.pdf)
