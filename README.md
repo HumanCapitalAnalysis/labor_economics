@@ -1,4 +1,4 @@
-﻿# Course on the Economics of Human Capital
+# Course on the Economics of Human Capital
 
 > Although it is obvious that people acquire useful skills and knowledge, it is not obvious that these skills and
 knowledge are a form of capital, that this capital is in substantial part a product of deliberate investment, that it has grown in Western societies at a much faster rate than conventional (nonhuman) capital, and that its growth may well be the most distinctive feature of the
@@ -14,7 +14,7 @@ Please use the table of content to navigate the rest of the material.
 
 For further questions, please do not hesitate to contact us:
 
-[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://hca.zulipchat.com/)
+[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://bonn-econ-teaching.zulipchat.com)
 
 ## Lectures <a name="lectures"></a>
 

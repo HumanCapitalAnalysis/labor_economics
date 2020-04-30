@@ -3,9 +3,12 @@ We start on June 10th 2020 and meet Wednesdays between 12:15-15:45 for online le
 
 **Lecturer** [Philipp Eisenhauer](https://peisenha.github.io)
 
-We will conduct all course communications using [Zulip](https://zulip.com/), so please be sure to join us there. Simply clicking the button below will take you to the proper channels.  
+We will conduct all course communications using the bonn-econ-teaching [Zulip](https://zulip.com/) chat, so please be sure to join us there. To join the Zulip organization, please click on the button below.
 
-[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://hca.zulipchat.com/)
+[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://bonn-econ-teaching.zulipchat.com)
+
+By default, you will already be subscribed to Q&A and tech support streams (= chatrooms). You need to **manually subscribe to the Labor Economics stream** to receive all the messages for this course. Find out how to subscribe to a stream on Zulip [here](https://zulipchat.com/help/browse-and-subscribe-to-streams).
+
 
 ## Lecture Plan
 
