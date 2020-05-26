@@ -108,4 +108,4 @@ II: Using the marginal treatment effect to organize alternative economic estimat
 * **Summer Quarter 2018**, Graduate Program at the University of Bonn, please see [here](https://github.com/HumanCapitalAnalysis/labor-economics/tree/master/iterations/bonn-ss-2018) for details.
 
 
-[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/labor-economics.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/labor-economics)
+[![Continuous Integration](https://github.com/HumanCapitalAnalysis/labor-economics/workflows/Continuous%20Integration/badge.svg)](https://github.com/HumanCapitalAnalysis/labor-economics/actions)
