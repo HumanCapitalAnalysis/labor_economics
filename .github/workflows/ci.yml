@@ -1,0 +1,30 @@
+
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: goanpeca/setup-miniconda@v1.0.2
+      with:
+           activate-environment: teaching-labor-economics
+           environment-file: environment.yml
+           python-version: 3.6
+           auto-activate-base: false
+    - name: install latex dependencies
+      run: |
+        sudo add-apt-repository ppa:malteworld/ppa
+        sudo apt-get update
+        sudo apt-get install texlive texlive-science texlive-latex-extra texlive-bibtex-extra texlive-fonts-extra
+        sudo texhash
+    - name: compile latex
+      shell: bash -l {0}
+      run: |
+        export PATH="$PATH:/usr/share/miniconda/bin"
+        source .envrc
+        run-slide
