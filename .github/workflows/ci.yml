@@ -27,4 +27,5 @@ jobs:
       run: |
         export PATH="$PATH:/usr/share/miniconda/bin"
         source .envrc
+        git submodule update --init --recursive
         run-slide
