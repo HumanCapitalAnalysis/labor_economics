@@ -194,57 +194,7 @@ Figure \ref{Marginal Benefit of Treatment} shows the marginal benefit of treatme
 \item The static model does not account for the dynamic nature of educational choices, where uncertainty reveals information about its benefits and cost throughout one's educational career.
 \end{boenumerate}
 
-\begin{boenumerate}
-\item The individual effect of treatment $B$ is defined as the difference in potential outcomes $Y_1 - Y_0$. The unobservable $U$ is the only source of heterogeneity in the model. Given its distribution and the selection equation, about 50\% of individuals will select into treatment. However, only about 25\% have a positive benefit of treatment.
-
-\item The conventional average treatment effects are defined below.
-%
-\begin{align*}
-    B^{ATE} & = E[Y_1 - Y_0 ]\\
-    B^{TT}  & = E[Y_1 - Y_0 \mid D = 1]\\
-    B^{TUT} & = E[Y_1 - Y_0 \mid D = 0]
-\end{align*}
-%
-Their policy-relevance is limited, as they correspond to extreme policy alternatives. For example a stylized version of the Affordable Care Act, where health insurance coverage was universal after the implementation of the reform. As a considerable share of Americans was already covered before, this corresponds to the $B^{TT}$. A focus on average effects might mask considerable heterogeneity in benefits.
-
-Figure \ref{Distribution of benefits} shows the distribution of benefits. All individuals with a benefit above -0.25 select into treatment because it still holds that $0.50 > U$.
-
-\begin{figure}[htp]\centering
-\caption{Distribution of benefits}\label{Distribution of benefits}
-\scalebox{0.5}{\includegraphics{fig-static-model-distribution-benefits}}
-\end{figure}
-
-The conventional effects of treatment are calculated as:
-%
-\begin{align*}
-    B^{ATE} & = -0.25 \\
-    B^{TT}  & =  0.00\\
-    B^{TUT} & = -0.50
-\end{align*}
-
-\item The concept of essential heterogeneity describes the idea that individuals select their treatment status based on unobservable gains from treatment even after conditioning on unobservables. More formally,
-
-\begin{align*}
-    Y_1 - Y_0 \notindep D\quad \mid X = x.
-\end{align*}
-
-The parameterized model does exhibit essential heterogeneity as individuals with the highest dislike to select into treatment $U$ have the least to gain.
-
-\item The marginal benefit is the average effect of treatment for individuals at different quantiles of the first-stage unobservable $V$. More formally,
-
-\begin{align*}
-    B^{MTE}(u_D) = E [Y_1 - Y_0 \mid U_D = u_D].
-\end{align*}
-
-Figure \ref{Marginal benefit of treatment} shows the marginal benefit of treatment for the parameterized model.
-
-\begin{figure}[htp]\centering
-\caption{Marginal benefit of treatment}\label{Marginal benefit of treatment}
-\scalebox{0.50}{\includegraphics{fig-static-model-marginal-benefit}}
-\end{figure}
-
-
-\end{boenumerate}
+We now turn to the solutions for the parameterized version of the generalized Roy model.
 
 \begin{boenumerate}
 
