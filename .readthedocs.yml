@@ -11,7 +11,7 @@ python:
   version: 3.7
 
 conda:
-  environment: lectures/rtd-environment.yml
+  environment: lectures/rtd_environment.yml
 
 formats:
   - pdf
