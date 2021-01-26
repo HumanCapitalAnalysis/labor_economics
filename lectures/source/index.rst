@@ -24,11 +24,11 @@
 .. toctree::
    :maxdepth: 1
 
-   source/lectures
-   source/tutorials
-   source/readings
-   source/references
-   source/iterations
+   lectures
+   tutorials
+   readings
+   references
+   iterations
 
 ==========
 Powered by
