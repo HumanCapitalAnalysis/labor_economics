@@ -1,0 +1,26 @@
+name: rtd-teaching-labor-economics
+
+channels:
+- conda
+- conda-forge
+
+dependencies:
+- python=3.7
+- jupyterlab
+- jupyter
+- pip
+- pygraphviz
+- sphinx>=1.4
+- nbsphinx
+- jupyter_contrib_nbextensions
+- jupyter_nbextensions_configurator
+- ipython
+- ipykernel
+- nbdime
+- pip:
+    - sphinx_rtd_theme
+    - cairosvg
+    - sphinxcontrib-svg2pdfconverter[CairoSVG]
+    - parso<0.8.0
+    - sphinxcontrib-bibtex
+    - nbsphinx
