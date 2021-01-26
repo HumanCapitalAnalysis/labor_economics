@@ -5,4 +5,4 @@
 |logo| Course on the Economics of Human Capital
 ================================================
 
-Please see our online materials for details.
+Please see our `online materials <https://labor-economics.readthedocs.io>`_ for details.
