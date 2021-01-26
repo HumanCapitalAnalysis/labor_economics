@@ -9,6 +9,6 @@ Tutorials
 .. toctree::
    :maxdepth: 1
 
-   99-tutorial.ipynb
+   source/99-tutorial.ipynb
 
 We revisit the material of the course in tutorial. Please prepare for our review session using these questions.
