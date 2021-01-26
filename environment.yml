@@ -17,3 +17,15 @@ dependencies:
 - jupyter
 - pip
 - pygraphviz
+- nbsphinx
+- jupyter_contrib_nbextensions
+- jupyter_nbextensions_configurator
+- ipython
+- ipykernel
+- pip:
+    - sphinx_rtd_theme
+    - cairosvg
+    - sphinxcontrib-svg2pdfconverter[CairoSVG]
+    - parso<0.8.0
+    - sphinxcontrib-bibtex
+    - nbsphinx

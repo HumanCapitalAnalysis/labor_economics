@@ -16,7 +16,6 @@ dependencies:
 - jupyter_nbextensions_configurator
 - ipython
 - ipykernel
-- nbdime
 - pip:
     - sphinx_rtd_theme
     - cairosvg
