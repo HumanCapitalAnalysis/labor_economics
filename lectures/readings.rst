@@ -4,7 +4,11 @@
    contain the root `toctree` directive.
 
 Readings
-==========
+=========
+
+* Cahuc, P., & Zylberberg, A. (2004). *Labor Economics.* Cambridge, MA: MIT Press.
+
+* Schultz, T. (1961). `Investment in human capital. <https://www.ssc.wisc.edu/~walker/wp/wp-content/uploads/2012/04/schultz61.pdf>`_ *American Economic Review*, 51(1), 1–17.
 
 Introduction to the economics of human capital
 ***********************************************

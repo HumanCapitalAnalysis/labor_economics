@@ -21,14 +21,17 @@
    Although it is obvious that people acquire useful skills and knowledge, it is not obvious that these skills and knowledge are a form of capital, that this capital is in substantial part a product of deliberate investment, that it has grown in Western societies at a much faster rate than conventional (nonhuman) capital, and that its growth may well be the most distinctive feature of the economic system. It has been widely observed that increases in national output have been large compared with the increases of land, man-hours and physical reproducible capital. Investment in human capital is probably the major explanation for this difference. 
     -- Schultz, 1961
 
+Please use the table of content to navigate the rest of the material.
+
 .. toctree::
    :maxdepth: 1
 
    lectures
    tutorials
    readings
-   references
    iterations
+
+For further questions, please do not hesitate to contact us.
 
 ==========
 Powered by
