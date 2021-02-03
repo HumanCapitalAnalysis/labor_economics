@@ -27,5 +27,5 @@ dependencies:
     - cairosvg
     - sphinxcontrib-svg2pdfconverter[CairoSVG]
     - parso<0.8.0
-    - sphinxcontrib-bibtex
-    - nbsphinx<2.0
+    - sphinxcontrib-bibtex<2.0
+    - nbsphinx
