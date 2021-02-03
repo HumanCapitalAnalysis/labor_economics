@@ -28,8 +28,24 @@ Please use the table of content to navigate the rest of the material.
 
    lectures
    tutorials
-   readings
+   bibliography
    iterations
+
+
+Primary literature
+------------------
+
+|space| |space| |cahuccarcillozylberberg| |space| |schultz| |space| |space|
+
+.. |cahuccarcillozylberberg| image:: _static/images/fig-cahuc-carcillo-zylberberg-2004.jpg
+  :width: 23 %
+  :target: https://mitpress.mit.edu/books/labor-economics-second-edition
+
+.. |schultz| image:: _static/images/fig-schultz-1961.png
+  :width: 19 %
+  :target: https://www.ssc.wisc.edu/~walker/wp/wp-content/uploads/2012/04/schultz61.pdf
+
+We use the book `Labor Economics <https://mitpress.mit.edu/books/labor-economics-second-edition>`_ by `Pierre Cahuc <https://sites.google.com/site/pierrecahuc/>`_, `Stéphane Carcillo <https://sites.google.com/site/stephanecarcillo/>`_ and `André Zylberberg <https://sites.google.com/site/azylberg/>`_ as well as the paper `Investment in Human Capital <https://www.ssc.wisc.edu/~walker/wp/wp-content/uploads/2012/04/schultz61.pdf>`_ by `Theodore Schultz <https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/biographical/>`_ throughout the course.
 
 For further questions, please do not hesitate to contact us.
 
@@ -40,4 +56,10 @@ Powered by
 .. image:: https://raw.githubusercontent.com/OpenSourceEconomics/ose-corporate-design/master/logos/OSE_logo_RGB.svg
   :width: 22 %
   :target: https://open-econ.org
+
+.. |space| raw:: html
+
+     <embed>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+     </embed>
 

@@ -33,6 +33,7 @@ extensions = [
     "sphinx.ext.extlinks",
     "sphinx_rtd_theme",
     "sphinx.ext.doctest",
+    "sphinxcontrib.bibtex",
 ]
 
 # Add any paths that contain templates here, relative to this directory.

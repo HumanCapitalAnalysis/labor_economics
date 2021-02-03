@@ -28,4 +28,4 @@ dependencies:
     - sphinxcontrib-svg2pdfconverter[CairoSVG]
     - parso<0.8.0
     - sphinxcontrib-bibtex
-    - nbsphinx
+    - nbsphinx<2.0
