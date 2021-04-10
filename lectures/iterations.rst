@@ -64,7 +64,8 @@ Syntopical reading
 
 * `Reading scientific papers <https://github.com/HumanCapitalAnalysis/talks/blob/master/research-skills/01-reading-scientific-papers/slides.pdf>`_
 
-We discuss the research reported in Lagakos & al. (2018) in detail, trying to deduce some general lessons on how to read scientific papers in general.
+We discuss the research reported in `Lagakos & al. (2018) <https://www.journals.uchicago.edu/doi/abs/10.1086/696225>`_ in detail, trying to deduce some general lessons on how to read scientific papers in general.
+
 
 References
 -----------
