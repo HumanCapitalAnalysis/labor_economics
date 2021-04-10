@@ -6,7 +6,7 @@ on: [push]
 jobs:
   build:
 
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
 
     steps:
     - uses: actions/checkout@v2
@@ -14,8 +14,9 @@ jobs:
       with:
            activate-environment: teaching-labor-economics
            environment-file: environment.yml
-           python-version: 3.6
+           python-version: 3.8
            auto-activate-base: false
+
     - name: install latex dependencies
       run: |
         sudo add-apt-repository ppa:malteworld/ppa
