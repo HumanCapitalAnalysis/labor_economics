@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Labor Economics"
+project = "Labor economics"
 copyright = "2021, Prof. Dr. Philipp Eisenhauer"
 author = "Prof. Dr. Philipp Eisenhauer"
 

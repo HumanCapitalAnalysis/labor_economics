@@ -6,7 +6,7 @@
 .. |logo| image:: https://raw.githubusercontent.com/OpenSourceEconomics/ose-corporate-design/master/logos/OSE_logo_no_type_RGB.svg
   :width: 4 %
 
-|logo| Course on the Economics of Human Capital
+|logo| Labor economics
 ================================================
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
   :target: https://opensource.org/licenses/MIT
@@ -58,4 +58,3 @@ Powered by
      <embed>
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
      </embed>
-
