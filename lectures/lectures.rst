@@ -7,7 +7,7 @@ Lectures
 ========
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
 
    01-introduction/notebook.ipynb
 
