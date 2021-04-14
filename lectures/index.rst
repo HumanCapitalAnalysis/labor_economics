@@ -41,7 +41,7 @@ Primary literature
   :width: 27 %
   :target: https://mitpress.mit.edu/books/labor-economics-second-edition
 
-We use the book `Labor Economics <https://mitpress.mit.edu/books/labor-economics-second-edition>`_ by `Pierre Cahuc <https://sites.google.com/site/pierrecahuc/>`_, `Stéphane Carcillo <https://sites.google.com/site/stephanecarcillo/>`_ and `André Zylberberg <https://sites.google.com/site/azylberg/>`_ as well as the paper `Investment in Human Capital <https://www.ssc.wisc.edu/~walker/wp/wp-content/uploads/2012/04/schultz61.pdf>`_ by `Theodore Schultz <https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/biographical/>`_ throughout the course.
+We use the book `Labor Economics <https://mitpress.mit.edu/books/labor-economics-second-edition>`_ by `Pierre Cahuc <https://sites.google.com/site/pierrecahuc/>`_, `Stéphane Carcillo <https://sites.google.com/site/stephanecarcillo/>`_ and `André Zylberberg <https://sites.google.com/site/azylberg/>`_ as well as the paper `Investment in Human Capital <https://www.jstor.org/stable/pdf/1818907.pdf?ab_segments=0%252Fbasic_search_gsv2%252Fcontrol&refreqid=excelsior%3A2fce5dc1336c9402bd36dcebcdcc15d3>`_ by `Theodore Schultz <https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/biographical/>`_ throughout the course.
 
 For further questions, please do not hesitate to contact us.
 
