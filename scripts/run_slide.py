@@ -8,7 +8,7 @@ from auxiliary import parse_arguments
 from auxiliary import LECTURES_ROOT
 
 
-def compile_single(is_update):
+def compile_single():
     """Compile a single lecture."""
     for task in ['pdflatex', 'bibtex', 'pdflatex', 'pdflatex']:
         subprocess.check_call(task + ' main', shell=True)
@@ -19,10 +19,10 @@ if __name__ == '__main__':
 
     request = parse_arguments('Create lecture slides')
 
-
     os.chdir(LECTURES_ROOT)
 
     for dirname in request:
-        os.chdir(dirname)
-        compile_single('slides')
-        os.chdir('../')
+        if "05" not in dirname:
+            os.chdir(dirname)
+            compile_single()
+            os.chdir('../')
