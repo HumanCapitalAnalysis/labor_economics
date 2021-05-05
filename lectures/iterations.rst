@@ -31,7 +31,7 @@ Lecture Plan
     "04/14/20", "Kickoff: Introduction to the economics of human capital"
     "04/21/20", "Returns to schooling"
     "04/28/20", "Static model of educational choice"
-    "04/05/20", "Syntopical reading of Lagakos & al. (2018)"
+    "05/05/20", "Syntopical reading of Lagakos & al. (2018)"
     "05/12/20", "Dynamic model of human capital accumulation"
     "05/19/20", "Dies Academicus, office hours"
     "05/26/20", "Pentecost holidays"
